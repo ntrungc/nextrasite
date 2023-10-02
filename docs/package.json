@@ -21,7 +21,9 @@
   },
   "devDependencies": {
     "@svgr/webpack": "^8.0.1",
+    "@cloudflare/next-on-pages": "^1.6.3",
     "@types/node": "^18.11.18",
+    "eslint-plugin-next-on-pages": "^1.6.3",
     "@types/react": "^18.2.21",
     "autoprefixer": "^10.4.15",
     "eslint": "^8.30.0",
